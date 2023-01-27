@@ -1,6 +1,6 @@
 // Nombre:      punto-medio.cpp
 // Proposito:   Implementacion del algoritmo de punto medio
-us// Autor:       Alex H. Pfoccori Quispe
+// Autor:       Alex H. Pfoccori Quispe
 // Compilacion: g++ punto-medio.cpp -lglut -lGL -lGLU -o punto-medio.exe
 // Ejecucion:   ./punto-medio.exe
 
